@@ -1,6 +1,6 @@
 Reproductor .ogg
 
--Python app.py
+-Python Reproductor_interface.py
 
 pygame mixer module:
 https://www.pygame.org/docs/ref/mixer.html
